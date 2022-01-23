@@ -1,0 +1,49 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    
+}
+#Tv
+{
+border-radius: 30px;
+width: 120px;
+} 
+#Speaker
+{
+border-radius: 30px;
+width: 120px;
+} 
+#Telephone
+{
+border-radius: 30px;
+width: 120px;
+} 
+#laptop
+{
+border-radius: 30px;
+width: 120px;
+} 
+#ipad
+{
+border-radius: 30px;
+width: 120px;
+} 
+#Homepage{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}
